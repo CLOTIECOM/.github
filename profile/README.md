@@ -5,7 +5,6 @@
 <h1 align="center">Technology Stack :cloud:  </h1>
 <p align="center">
   <ul>
-      <h5 align="center">Languages</h5>
       <p align="center">
         <img align="middle" src="/netcore.png" alt=".netcore"  
         style="width: 100px; max-width: 100%; height: auto"</img>
